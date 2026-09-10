@@ -13,9 +13,6 @@ export default function Home() {
       <header className="w-full flex justify-center border-b border-white/10 h-16 fixed top-0 left-0 z-50 bg-[#0a0a0f]/80 backdrop-blur-md">
         <div className="w-full max-w-7xl flex justify-between items-center px-5 text-sm">
           <div className="flex gap-5 items-center font-semibold">
-            <Link href="/" className="hover:opacity-80 transition-opacity">
-              Next.js Supabase Starter
-            </Link>
           </div>
 
           <div className="flex items-center gap-4">
